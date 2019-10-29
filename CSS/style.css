@@ -1,0 +1,17 @@
+
+     .us{
+
+     	color: white;
+     	font-style: oblique;
+     	text-align: left;
+     	font-size: 30px;
+     	border: 2px solid blue;
+     	border-style: dotted;
+     }
+
+     .background{
+     	background-image: url("../imgss/cute.jpg");
+     	background-repeat: cover;
+     	background-attachment: scroll;
+
+     }
